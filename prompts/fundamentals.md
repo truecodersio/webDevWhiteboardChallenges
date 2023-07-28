@@ -1,6 +1,6 @@
 # Fundamentals
 
-1. Write a for loop that counts from 1 to 10
+1. Write a for loop that counts from 0 to 9
 
 2. Write a function that prints something
 
