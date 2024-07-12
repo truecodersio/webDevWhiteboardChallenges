@@ -7,5 +7,3 @@
 3. Write a function that will be given an array of booleans, and returns true or false depending on if the array contains a false value.
 
 4. Write a function that will be given an array of strings called `names`, and a string called `name`. The function should return the number of times that `name` appears in the `names` array
-
-5. 
